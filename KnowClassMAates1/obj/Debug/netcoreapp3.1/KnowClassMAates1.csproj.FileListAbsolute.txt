@@ -1,0 +1,12 @@
+/Users/akiichris/Projects/KnowClassMAates1/KnowClassMAates1/bin/Debug/netcoreapp3.1/KnowClassMAates1.deps.json
+/Users/akiichris/Projects/KnowClassMAates1/KnowClassMAates1/bin/Debug/netcoreapp3.1/KnowClassMAates1.runtimeconfig.json
+/Users/akiichris/Projects/KnowClassMAates1/KnowClassMAates1/bin/Debug/netcoreapp3.1/KnowClassMAates1.runtimeconfig.dev.json
+/Users/akiichris/Projects/KnowClassMAates1/KnowClassMAates1/bin/Debug/netcoreapp3.1/KnowClassMAates1.dll
+/Users/akiichris/Projects/KnowClassMAates1/KnowClassMAates1/bin/Debug/netcoreapp3.1/KnowClassMAates1.pdb
+/Users/akiichris/Projects/KnowClassMAates1/KnowClassMAates1/obj/Debug/netcoreapp3.1/KnowClassMAates1.csprojAssemblyReference.cache
+/Users/akiichris/Projects/KnowClassMAates1/KnowClassMAates1/obj/Debug/netcoreapp3.1/KnowClassMAates1.AssemblyInfoInputs.cache
+/Users/akiichris/Projects/KnowClassMAates1/KnowClassMAates1/obj/Debug/netcoreapp3.1/KnowClassMAates1.AssemblyInfo.cs
+/Users/akiichris/Projects/KnowClassMAates1/KnowClassMAates1/obj/Debug/netcoreapp3.1/KnowClassMAates1.csproj.CoreCompileInputs.cache
+/Users/akiichris/Projects/KnowClassMAates1/KnowClassMAates1/obj/Debug/netcoreapp3.1/KnowClassMAates1.dll
+/Users/akiichris/Projects/KnowClassMAates1/KnowClassMAates1/obj/Debug/netcoreapp3.1/KnowClassMAates1.pdb
+/Users/akiichris/Projects/KnowClassMAates1/KnowClassMAates1/obj/Debug/netcoreapp3.1/KnowClassMAates1.genruntimeconfig.cache

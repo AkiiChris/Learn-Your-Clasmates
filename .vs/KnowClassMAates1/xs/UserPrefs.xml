@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{596C914E-E8D0-4696-91DD-B5E092957EC7}|Default">
+  <MonoDevelop.Ide.ItemProperties.KnowClassMAates1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KnowClassMAates1/Program.cs">
+    <Files>
+      <File FileName="KnowClassMAates1/Program.cs" Line="9" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KnowClassMAates1" expanded="True">
+            <Node name="KnowClassMAates1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
